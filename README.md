@@ -9,14 +9,18 @@ The mod is officially checked and approved by WG, thus, it is safe to use.
 ![image](https://github.com/AndrewTaro/ThreeDimentionalRadioPublic/assets/36262823/d27e0983-faee-4fb0-8087-648e752c3a19)
 ![image](https://github.com/AndrewTaro/ThreeDimentionalRadioPublic/assets/36262823/ac30ad3e-29aa-4179-967f-7670e0924daa)
 
+# Requirement
+[TTaro Mod Utils](https://github.com/AndrewTaro/TTaroModUtils) is **required**. This mod reads every one of its
+settings from it, and disables itself without it.
+
 # Install
 1. Download a zip.
-2. Unzip the archive and you should get `gui`, `PnFMods` folders, and `PnFModsLoader.py`.
+2. Unzip the archive and you should get the `PnFMods` and `ModSchemas` folders and `PnFModsLoader.py`.
 3. Move them to `(wows)/bin/(latest_number)/res_mods/`. So the path will look like `res_mods/PnFModsLoader.py`, etc.
 4. Done!
 
 # Config
-[TTaro Mod Config](../../../TTaroModConfig) supports this mod.  You can adjust the color and visibility of the RPF sector.
+Configure the mod in [TTaro Mod Utils](https://github.com/AndrewTaro/TTaroModUtils). You can adjust the color and visibility of the RPF sector.
 
 ![image](https://github.com/AndrewTaro/ThreeDimentionalRadioPublic/assets/36262823/96b9e808-5556-4c13-b4d0-a8068261b535)
 
